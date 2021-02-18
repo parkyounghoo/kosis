@@ -1,0 +1,9 @@
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\bin\Debug\kosis.exe.config
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\bin\Debug\kosis.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\bin\Debug\kosis.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\obj\Debug\kosis.csprojAssemblyReference.cache
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\obj\Debug\kosis.csproj.CopyComplete
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\obj\Debug\kosis.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kosis\obj\Debug\kosis.pdb
