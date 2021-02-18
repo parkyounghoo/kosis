@@ -11,7 +11,6 @@ namespace kosis
     class Program
     {
         static string connectionString = "server = localhost; uid = sa; pwd = 1111; database = PrivateData;";
-        //static string connectionString = "server = 10.200.5.73,1477; uid = savewind; pwd = savewind11!; database = CENTER_RAW;";
         static void Main(string[] args)
         {
             employment employment = new employment();
